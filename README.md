@@ -33,4 +33,4 @@ The Mi A3 (codenamed "laurel_sprout") is a mid-range smartphone from Xiaomi. It 
 | Sensors                 | Accelerometer, Gyro, Proximity, Compass                         |
 
 ## Device picture
-
+![Xiaomi Mi A3](https://i01.appmifile.com/webfile/globalimg/products/pc/mi-a3/MIA3_02.jpg "Xiaomi Mi A3")
