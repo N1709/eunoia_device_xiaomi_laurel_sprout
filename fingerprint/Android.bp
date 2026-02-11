@@ -45,3 +45,7 @@ cc_library_static {
         "generated_kernel_headers",
     ],
 }
+
+cc_defaults {
+    name: "surfaceflinger_udfps_lib_defaults",
+}
